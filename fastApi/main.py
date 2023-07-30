@@ -5,7 +5,7 @@ import imutils
 from imutils import face_utils
 import numpy as np
 import matplotlib.pyplot as plt
- 
+import os
 import face_recognition
 
 app = FastAPI()
