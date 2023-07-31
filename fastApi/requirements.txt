@@ -2,7 +2,9 @@ fastapi
 uvicorn
 gunicorn
 numpy==1.25.1
-opencv-python==4.8.0.74
-dlib
-imutils
-face-recognition
+python-multipart
+# opencv-python==4.8.0.74
+# dlib
+# imutils
+# face-recognition
+# matplotlib
